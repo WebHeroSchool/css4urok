@@ -1,0 +1,73 @@
+body {
+  text-align: center;
+  background: rgba(255, 248, 220, 2);
+}
+.header__nav {
+  background: lightgrey;
+  font-size: 18px;
+  padding: 8px;
+}
+.nav-header__link_choise {
+  color: darkred;
+}
+.section1 {
+  background: #BC8F8F;
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px #000;
+}
+.section1__img {
+  width: 170px;
+  height: 120px;
+}
+.section1__price {
+  text-align: right;
+  font-style: italic;
+}
+.section2 {
+  background: #D8BFD8;
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px #000;
+}
+.section2__img {
+  width: 170px;
+  height: 120px;
+}
+.section2__price {
+  text-align: right;
+  font-style: italic;
+}
+.section3 {
+  background: #FFDAB9;
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px #000;
+}
+.section3__img {
+  width: 170px;
+  height: 120px;
+}
+.section3__price {
+  text-align: right;
+  font-style: italic;
+}
+.text {
+  text-indent: 25px;
+  text-align: justify;
+  text-decoration-line: initial;
+  border: 3px inset orange;
+  padding: 12px;
+  border-radius: 20px 20px 0 20px;
+  font-family: serif;
+  font-style: oblique;
+}
+.footer__address {
+  text-align: right;
+}
